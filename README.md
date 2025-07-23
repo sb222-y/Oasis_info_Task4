@@ -70,4 +70,4 @@ This project is created as part of Oasis Infobyte Internship Task 4 and is free 
 
 ✨ Author
 Name:- Sanskruti Bharat Yewale_
-GitHub:- https://github.com/sb222-y/Oasis_info_Task4/edit/main/README.md
+GitHub:- https://github.com/sb222-y/Oasis_info_Task4
